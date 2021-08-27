@@ -102,8 +102,9 @@
     font-size: 8px;
   }
   .card__description {
+    display: none;
     color: #282828;
-    font-size: 0px;
+    font-size: 8px;
   }
   footer {
     background-color: #ffffff;
